@@ -4,6 +4,8 @@
 @import './flex-wrap.css';
 @import './flex.css';
 @import './justify-content.css';
+@import './align-items.css';
+
 :root {
     --darkColor: #04001e;
     --lightColor: #DFFBFF;
