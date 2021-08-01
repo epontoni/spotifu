@@ -1,0 +1,16 @@
+.justifyContent {
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-between;
+    justify-content: space-evenly;
+
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+/*
+.justifyContent > img {
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+}
+*/

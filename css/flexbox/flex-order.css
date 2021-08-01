@@ -1,0 +1,16 @@
+.flexOrder {
+    display: flex;
+    gap: 5em; /* Espaciado entre columnas */
+}
+
+.flexOrder img {
+    border-radius: 50%;
+}
+
+.flexOrder:nth-child(odd) p{
+    border: 1px solid red;
+    order: 1; /* probar con índice negativo*/
+}
+.flexOrder:nth-child(odd) img{
+    order: 2;
+}

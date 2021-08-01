@@ -1,0 +1,25 @@
+::-webkit-scrollbar {
+    inline-size: .5rem;
+    block-size: .5rem;
+}
+
+/*::-webkit-scrollbar-button {
+}*/
+
+::-webkit-scrollbar-thumb {
+    background: var(--gray60);
+    border-radius: .5rem;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--gray50);
+
+}
+
+/*::-webkit-scrollbar-thumb:horizontal {
+    background: green;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background: blueviolet;
+}*/
